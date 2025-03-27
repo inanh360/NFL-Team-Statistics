@@ -19,7 +19,8 @@ ESPN NFL Data (Advanced analytics).
 [Kaggle NFL Datasets](https://www.kaggle.com/datasets/cviaxmiwnptr/nfl-team-stats-20022019-espn) (Cleaned CSV files for historical data).
 ## 📂 How to Use This Repo 
 For Viewers (Non-Technical)
--Explore the Dashboard:
+
+*Explore the Dashboard:
 
 -Open the [Tableau Public](https://public.tableau.com/app/profile/ishrak.hossain/viz/NFLTeamStatistics_17412257365090/Dashboard1?publish=yes) visualization.
 For Developers/Data Analysts
