@@ -1,4 +1,3 @@
-Contains Tableau NFL project.
 ## 📊 Project Overview 
 This repository contains interactive Tableau dashboards analyzing key NFL team statistics, including offensive/defensive performance, player contributions, and seasonal trends. The goal is to visualize data-driven insights for football enthusiasts, analysts, and fantasy sports players.
 
