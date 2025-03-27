@@ -16,13 +16,26 @@ NFL Official Stats (Team/player metrics).
 
 ESPN NFL Data (Advanced analytics).
 
-Kaggle NFL Datasets (Cleaned CSV files for historical data).
-(https://www.kaggle.com/datasets/cviaxmiwnptr/nfl-team-stats-20022019-espn)
+[Kaggle NFL Datasets](https://www.kaggle.com/datasets/cviaxmiwnptr/nfl-team-stats-20022019-espn) (Cleaned CSV files for historical data).
 ## 📂 How to Use This Repo 
 For Viewers (Non-Technical)
 Explore the Dashboard:
 
-Open the Tableau Public visualization.
+Open the [Tableau Public](https://public.tableau.com/app/profile/ishrak.hossain/viz/NFLTeamStatistics_17412257365090/Dashboard1?publish=yes) visualization.
+For Developers/Data Analysts
+Clone the Repository:
+
+bash
+Copy git clone https://github.com/inanh360/NFL-Team-Statistics.git
+Open Tableau Files:
+
+Download Tableau Public (free).
+
+Open .twb or .twbx files in the /dashboards folder.
+
+Modify the Data:
+
+Replace the data source in Tableau with your own CSV files (path: Data → Replace Data Source).
 
 Use filters (e.g., team, season) to customize views.
 ## 📊 NFL Team Statistics Dashboard  
