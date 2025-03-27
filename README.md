@@ -23,6 +23,7 @@ For Viewers (Non-Technical)
 
   Open the [Tableau Public](https://public.tableau.com/app/profile/ishrak.hossain/viz/NFLTeamStatistics_17412257365090/Dashboard1?publish=yes) visualization.
 For Developers/Data Analysts
+
   Clone the Repository:
     Copy git clone https://github.com/inanh360/NFL-Team-Statistics.git
     
