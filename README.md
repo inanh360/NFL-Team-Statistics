@@ -28,14 +28,14 @@ ESPN NFL Data (Advanced analytics).
   
 - **Open Tableau Files:**
 
-- Download Tableau Public (free).
+  - Download Tableau Public (free).
 
-- Open .twb or .twbx files in the /dashboards folder.
+  - Open .twb or .twbx files in the /dashboards folder.
 
 - **Modify the Data:**
 
-- Replace the data source in Tableau (Data → Replace Data Source).
+  - Replace the data source in Tableau (Data → Replace Data Source).
 
-- Use filters (e.g., team, season) to customize views.
+  - Use filters (e.g., team, season) to customize views.
 ## 📊 NFL Team Statistics Dashboard  
 [![Dashboard Preview](https://public.tableau.com/static/images/NF/NFLTeamStatistics_17412257365090/Dashboard1/1_rss.png)](https://public.tableau.com/app/profile/ishrak.hossain/viz/NFLTeamStatistics_17412257365090/Dashboard1)
