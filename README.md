@@ -4,11 +4,11 @@ This repository contains interactive Tableau dashboards analyzing key NFL team s
 
 Key Features:
 
-1.🏈 Team Comparisons: Points scored, yards gained, turnovers, and more.
+>1.🏈 Team Comparisons: Points scored, yards gained, turnovers, and more.
 
-2.📈 Trend Analysis: Performance over multiple seasons (e.g., 2020–2023).
+>2.📈 Trend Analysis: Performance over multiple seasons (e.g., 2020–2023).
 
-4.🔍 Interactive Filters: Drill down by team, position, or game week.
+>3.🔍 Interactive Filters: Drill down by team, position, or game week.
 ## 🏈 NFL Data Sources 
 The datasets used in this project were sourced from:
 
